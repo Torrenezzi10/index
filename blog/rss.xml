@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel>
+<title>feed do torre</title>
+<link>https://torrenezzi10.xyz/blog/rss.xml</link>
+<description>aqui eu posto atualizações sobre meu canal, futuros vídeos e outras coisas.</description>
+
+<item>
+<title>oi</title>
+<link>https://torrenezzi10.xyz/blog/1.html</link>
+<guid>https://torrenezzi10.xyz/blog/1.html</guid>
+<pubDate>Tue, 07 Sep 2021 03:00:00 -0300</pubDate>
+<description>
+	<p>eu estou escrevendo esse post perto das 3 horas da manhã <del>(dá pra fazer um cllckbait bom, sqn)</del> como um teste pra ver se o feed rss tá funcionando.</p>
+	<p>é só isso, vejo vcs em um outro dia.</p>
+</description>
+</item>
+</channel>
+</rss>
