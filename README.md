@@ -1,4 +1,4 @@
-# torrenezzi10.xyz
+# site
 código fonte do [meu site](https://torrenezzi10.xyz)
 
 ## sobre o site
@@ -10,7 +10,7 @@ com o passar do tempo, eu planejo melhorar a aparência do site (por enquanto t�
 ## objetivos
 
 - ser minimalista
-- 100% estático (nada de JavaScript)
+- nada de JavaScript
 
 ## contribuição
 
