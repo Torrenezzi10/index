@@ -6,6 +6,25 @@
 <description>aqui eu posto atualizações sobre meu canal, futuros vídeos e outras coisas.</description>
 
 <item>
+<title>Novo Site</title>
+<link>https://torrenezzi10.xyz/blog/4-novo-site.html</link>
+<guid>https://torrenezzi10.xyz/blog/4-novo-site.html</guid>
+<pubDate>Tue, 26 Nov 2021 17:20:00 -0300</pubDate>
+<description>
+	<![CDATA[ <h2>Novo Site</h2>
+	<h2>(26/11/2021)</h2>
+	<img src="img/4/pogchamp.png" class="blogImg" alt="novo site no gogog cromi">
+	<br>
+	<p>Na verdade é um novo design, tá um pouco melhor agora comparando com a aberração que tava antes.</p>
+	<br>
+	<p>Pra você ter uma ideia, aqui está uma comparação:</p>
+	<img src="img/4/comparacao-pog.png" class="blogImg" alt="pobre vs rico kkkk">
+	<p>É, pelo menos é um progresso.</p>
+	<p>E é só isso mesmo por hoje, vejo vcs na próxima!</p> ]]>
+</description>
+</item>
+
+<item>
 <title>eu não morri</title>
 <link>https://torrenezzi10.xyz/blog/3-eu-n-morri.html</link>
 <guid>https://torrenezzi10.xyz/blog/3-eu-n-morri.html</guid>
@@ -35,7 +54,7 @@
 	<p>a minha confusão já estava nas alturas, então eu taquei o foda-se e contactei a hostinger de novo e eles reponderam que eles não podiam fazer isso, que quem tinha que perguntar era eu. aí eu falei <i>PORRA EU FALO COM QUEM NESSA MERDA???</i>, mandei mais um email pra CentralNic e eles cortaram o loop de emails com quem realmente eu tinha que falar:</p>
 	<br>
 	<pre>
-		<blockquote>Olá,
+	<blockquote>Olá,
 <br>
 Você <i>pode</i> contactar directamente o operador de registo mas nós <b>não</b> somos o operador de registo, somos o fornecedor de sistemas backend, nós não podemos ajudar com isto.
 <br>
@@ -67,7 +86,8 @@ Por favor, consulte-os novamente, pois eles devem ter um contacto a que possa co
 <pubDate>Tue, 08 Sep 2021 18:48:00 -0300</pubDate>
 <description>
 	<![CDATA[ <h2>não confie no whatsapp</h2>
-	<p><img src="img/2/usa-xmpp-krai.jpg" class=titleimg alt="acho que ele tá meio suspeito, reposta ele" height="128"></img></p>
+	<h2>(08/09/2021)</h2>
+	<p><img src="img/2/usa-xmpp-krai.jpg" class=blogImg alt="acho que ele tá meio suspeito, reposta ele" height="128"></p>
 	<br>
 	<p>você provavelmente já ouviu falar no WhatsApp, né? o mensageiro mais amado do brasil, usado e confiado por todos, incuindo você, seus amigos, sua família, o mercadinho que vc vai todo dia pra comprar aquele arroz amarelo e grudento pra um caralho (brincadeira), até mesmo gigantes do comércio brasileiro usam o WhatsApp para poder atender seus clientes.</p>
 	<p>cada um tem o seu jeito de pronunciar o nome do mensageiro, seja <em>uá tis zap</em>, ou só <em>whats</em>, ou só <em>zap</em> ou até mesmo <em>zap zap</em> e por aí vai.</p>
@@ -85,8 +105,9 @@ Por favor, consulte-os novamente, pois eles devem ter um contacto a que possa co
 	<br>
 	<h3>o costume: a primeira alternativa ao SMS</h3>
 	<p>antes de começar essa parte, sim, eu sei do MSN, mas o WhatsApp foi a prmeira REAL alternativa ao sms, pois o MSN não era tão popular no mobile, pois estava disponível apenas nos windows phones ANTIGASSOS e praticamente niguem tinha esses celulares bostas.</p>
-	<p><img src="img/2/Windows_Live_Messenger_Mobile_screenshot.png" alt="msn num celular lixo"></img></p>
+	<p><img src="img/2/Windows_Live_Messenger_Mobile_screenshot.png" class=blogImg alt="msn num celular lixo"></p>
 	<h6>Windows Live Mobile num Nokia N79, fonte: <a href="https://en.wikipedia.org/wiki/File:Windows_Live_Messenger_Mobile_screenshot.png">https://en.wikipedia.org/wiki/File:Windows_Live_Messenger_Mobile_screenshot.png</a></h6>
+	<br>
 	<p>o WhatsApp foi o primeiro contato de muita gente à um serviço parecido ao SMS só que pela internet, e o pessoal não precisava ficar recarregando toda hora pra mandar mensagens e também não precisava tolerar o tanto de spam das operadoras e propagandas de serviços que sugam 8 reais por semana do seu crédito sem você saber pra ter um toque de uma música famosa do final dos anos 2000 no seu celular. (esses são momentos que eu não tenho saudade :D)</p>
 	<p>por isso ele ficou bastante popular logo no começo, pois com ele, era só você e seus amigos num lugar livre das infestações do SMS.</p>
 	<p>por causa disso a gente ficou acostumado com o WhatsApp, e também, guarde isso na sua cabeça: <strong>a maioria das pessoas não gostam de mudar a não ser se tiver um bom motivo para mudar.</strong></p>
@@ -106,7 +127,7 @@ Por favor, consulte-os novamente, pois eles devem ter um contacto a que possa co
 	<p>por causa disso, a gente não sabe exatamente <em>quais</em> dados estão sendo coletados, a gente só sabe que dados estão sendo coletados.</p>
 	<p>o segundo o problema é que por mais que o WhatsApp diz que suas mensagens estão sendo criptografadas, o jeito que o WhatsApp encripta as suas mensagens é facilmente burlável se você tiver acesso físico com o celular da vítima e as ferramentas certas, mas mesmo assim, o WhatsApp <a href="https://www.cvedetails.com/vulnerability-list/vendor_id-19851/product_id-54433/Whatsapp-Whatsapp.html">teve várias falhas de segurança</a> de todos os tipos e sabores, mas felizmente, pelo que eu estou vendo, as falhas estão sendo corridas rapidamente. mas mesmo assim, é inacreditável uma coisa dessas, eu sei que fazer um aplicativo 100% seguro é impossível, mas eles poderiam fazer MUITO melhor &gt;:(</p>
 	<p>se comparar-mos com <a href="https://www.cvedetails.com/vulnerability-list/vendor_id-16210/Telegram.html">as falhas de segurança do Telegram</a>, apesarem de terem uma quantidade parecida da quantidade de vulnerabilidades, em média o WhatsApp tem vulnerabilidades mais severas que as vulenrabilidades do Telegram. enquanto a mais altas do Telegram pegaram um score de 6.8, o WhatsApp conseguiu ter uma vulnerabilidade com 10!!! FUCKING DEEEZ!</p>
-	<p><img src="img/2/pqp.png" alt="zap sendo pior que o telegrama"></img></p>
+	<p><img src="img/2/pqp.png" class=blogImg alt="zap sendo pior que o telegrama"></p>
 	<p>mesmo o Telegram não tendo criptografia por padrão consegue ser mais seguro que a porra do zap KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK</p>
 	<p>o terceiro problema é que mesmo se os problemas de criptografia fossem corrigidos, isso não seria o suficiente, pois o WhatsApp usa o algorítimo de criptografia <a href="https://pt.wikipedia.org/wiki/RC4">RC4</a>, que é <a href="https://www.silicon.co.uk/workspace/whatsapp-encryption-security-128964/amp">conhecida por ser vulnerável</a> (artigo em inglês), ou seja, além da criptografia não ser implementada corretamente, a própria criptografia é falha!!!! AAAAAAAAAAAAAAAAAAAAAAAAAA</p>
 	<p>o quarto problema é que mesmo o WhatsApp tendo todos esses problemas, o pessoal ainda usa ele, mas foi o que eu falei antes: <strong>a maioria das pessoas não gostam de mudar a não ser se tiver um bom motivo para mudar</strong>, mas o que pode ser feito pra fazerem as pessoas mudar? uma das alternativas é alertar a população sobre os riscos sobre esses serviços &quot;gratuitos&quot;, mas isso não seria tão eficiente, pelo menos se seria uma organização pequena que estivesse fazendo isso, pois eles não tem rios de dinheiro pra investir em marketing e propaganda num nível que irá mudar alguma coisa.</p>
@@ -117,43 +138,46 @@ Por favor, consulte-os novamente, pois eles devem ter um contacto a que possa co
 	<p>mas enquanto o nosso país ainda estiver dominado pelo mensageiro verde de markinhos senpai, aqui está a minha dica: <strong>só use o WhatsApp quando for REALMENTE necessário</strong>, exemplo: trabalho, escola ou quando não há outro jeito mesmo.</p>
 	<p>e também siga essas dicas para diminuir um pouquinho as chances de se fuder por causa do zap</p>
 	<p><em>as dicas são baseadas <a href="https://www.wired.co.uk/article/whatsapp-privacy-security-settings">deste artigo</a></em></p>
+	<br>
 	<ul>
 	<h4><strong>desative o backup na núvem</strong></h4>
 	</ul>
 	<p>além dos backups serem armazenados no Google Drive ou iCloud (dependendo do sistema operacional), que são serviços do Big Tech, os dados do backup não são devidamente encriptados (mais um exemplo da &quot;criptografia&quot; funcionando que nem uma batata), e isso é um problema até agora, então se for fazer backup, faz de outro jeito, só procurar num duckduckdgo da vida.</p>
+	<br>
 	<ul>
 	<h4><strong>ative a autenticação de dois fatores</strong></h4>
 	</ul>
 	<p>NÃO vem com desculpinha esfarrapada, você deveria estar fazendo isso com tudo que você usa</p>
+	<br>
 	<ul>
 	<h4><strong>evite golpes</strong></h4>
 	</ul>
 	<p>se alguém te ligar pedindo pra vc falar um código que você recebeu por SMS, <strong>NÃO FALE</strong></p>
 	<p>se algum familiar estiver pedindo dinheiro de uma forma meio estranha, <strong>VERIFIQUE SE É REALEMNTE O FAMILIAR QUE TÁ MANDANDO</strong></p>
 	<p>se alguém te mandar um link suspeito, <strong>CHEQUE DUAS OU ATÉ TRÊS VEZES</strong></p>
+	<br>
 	<ul>
 	<h4><strong>não baixe &quot;mods&quot; do WhatsApp</strong></h4>
 	</ul>
 	<p>é sério, não tem motivo, não vem de mimimi, c já tá indo de zap e que ir de mimimmi também? você não sabe o risco que você tá correndo baixando essas porcarias, pode ser que o criador do mod esteja espionando nas suas mensagens, ou na maioria das vezes, mostrando propagandas que podem instalar outros aplicativos maliciosos no seu celular.</p>
-	<ul>
-	<h4><strong>não fica falando coisas canceláveis</strong></h4>
-	</ul>
-	<p>se vc é o cara do &quot;humor negro&quot; e sempre fica fazendo piadinhas que vão te dar problema, saiba que o WhatsApp NÃO é o lugar pra você fazer essas piadinhas, infelizmente o botão de print existe e é muito eficaz mesmo se for falso, então faça as suas piadinhas em contas de pseudomínios, que não tem nenhuma informação que ligue até você.</p>
 	<br>
 	<h3>alternativas</h3>
 	<p>se você puder mudar, eu recomendo os seguintes aplicativos separados por nível:</p>
+	<br>
 	<p>nível leigo:</p>
 	<ul>
 	<h4><a href="https://signal.org/"><del>Signal</del></a> (não recomendo, tá ficando uma bosta pq <a href="https://www.youtube.com/watch?v=tJoO2uWrX1M">deixou de proteger o que pretendia proteger</a>, A SUA PRIVACIDADE)</h4>
 	<h4><a href="https://telegram.org/">Telegram</a> (se privacidade é sua principal prioridade, não recomendo ele)</h4>
 	<h4><a href="https://element.io/">Element (Matrix)</a> (o melhor do nível leigo)</h4>
 	</ul>
+	<br>
 	<p>nível avnaçado:</p>
 	<ul>
 	<h4><a href="https://xmpp.org/">XMPP</a> (Simples, minimalista, descentralizado e extensível)</h4>
 	<h4><a href="https://matrix.org/">Seu próprio servidor de Matrix</a> (Também é descentralizado, mas no geral é mais fácil de usar do que o XMPP se você escolher o Element como o aplicativo)</h4>
 	<h4><a href="https://briarproject.org/">Briar</a> (P2P e baseado na rede Tor)</h4>
 	</ul>
+	<br>
 	<p>nível paranoico:</p>
 	<ul>
 	<h4>Sinal de fumaça (Não faça em um local público pois outras pessoas podem ver)</h4>
@@ -163,7 +187,9 @@ Por favor, consulte-os novamente, pois eles devem ter um contacto a que possa co
 	<br>
 	<h3>conclusão</h3>
 	<p>você não deveria confiar no WhatsApp como um mensageiro seguro, mas se vc quiser utilizar mesmo depois de ler tudo isso, o problema é teu, mas espero que pelo menos você tenha aprendido alguma coisa nesse post e altamente recomendo que você pesquise mais a fundo sobre tudo que eu citei aqui pois eu fiz uma pesquisa rápida da internet e da minha cabeça e pode ter erros.</p>
-	<p>esperam que tenham um ótimo dia, que lembrem de conversarem no meio do mato, e vejo vocês na proxima.</p> ]]>
+	<p>esperam que tenham um ótimo dia, que lembrem de conversarem no meio do mato, e vejo vocês na proxima.</p>
+	<br>
+	<p>Editado pela última vez em: <strong>26/11/2021</strong></p> ]]>
 </description>
 </item>
 
@@ -174,6 +200,7 @@ Por favor, consulte-os novamente, pois eles devem ter um contacto a que possa co
 <pubDate>Tue, 07 Sep 2021 03:00:00 -0300</pubDate>
 <description>
 	<![CDATA[ <h2>oi</h2>
+	<h2>(07/09/2021)</h2>
 	<br>
 	<p>eu estou escrevendo esse post perto das 3 horas da manhã <del>(dá pra fazer um cllckbait bom, sqn)</del> como um teste pra ver se o feed rss tá funcionando.</p>
 	<p>é só isso, vejo vcs em um outro dia.</p> ]]>
