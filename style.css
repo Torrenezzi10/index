@@ -141,6 +141,17 @@ body {
 .socialLinks {
 	padding: 0.25em;
 	height: 32px;
+	transition: 0.25s;
+}
+
+.socialLinks:hover {
+	transform: scale(1.25);
+}
+
+.blogTitle {
+	font-size: large;
+	font-weight: bold;
+	text-decoration: none;
 }
 
 /* pedaço de css kibado daqui: https://landchad.net/style.css */
