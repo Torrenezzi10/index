@@ -133,8 +133,18 @@ body {
 	max-width: 80%;
 }
 
+.avatar {
+	padding: 1em;
+	border-radius: 50%;
+}
+
+.socialLinks {
+	padding: 0.25em;
+	height: 32px;
+}
+
 /* pedaço de css kibado daqui: https://landchad.net/style.css */
-blockquote {
+code {
 	border-radius: 5px ;
 }
 
