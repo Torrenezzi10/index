@@ -31,7 +31,6 @@
 /* header */
 
 header {
-	margin: 0 auto;
 	background: #004dd6;
 	display: grid;
 	grid-auto-flow: column;
@@ -54,7 +53,7 @@ header {
 .centerText {
 	color:whitesmoke;
 	text-decoration: none;
-	font-size: 1.25rem;
+	font-size: 0.7rem;
 	font-weight: bold;
     position: absolute;
 	top: 22px;
@@ -83,54 +82,21 @@ header {
 	background-color: #ffffff32;
 }
 
-* {
-	margin: 0;
-	padding: 0;
-	font-family: "Open Sans";
-}
-
-/* corpo */
-
-body {
-	color: whitesmoke;
-	background: #111;
-}
-
-.center {
-	display: block;
-	margin-left: auto;
-	margin-right: auto;
-}
+/* página inicial */
 
 .welcome {
 	margin: 0;
 	text-align: center;
+	font-weight: normal;
 	position: absolute;
     top: 50%;
     left: 50%;
-    margin-right: -50%;
     transform: translate(-50%, -50%)
 }
 
 .welcomeMain {
 	font-size: 3rem;
 	font-weight: bold;
-}
-
-.mainText {
-	display: block;
-	text-align: center;
-	max-width: 80%;
-	position: absolute;
-    left: 50%;
-    margin-right: -50%;
-    transform: translate(-50%, 32px);
-	padding-bottom: 32px;
-}
-
-.blogImg {
-	padding: 1em;
-	max-width: 80%;
 }
 
 .avatar {
@@ -148,13 +114,68 @@ body {
 	transform: scale(1.25);
 }
 
+/* corpo */
+
+* {
+	margin: 0;
+	padding: 0;
+	font-family: "Open Sans";
+}
+
+body {
+	color: whitesmoke;
+	background: #111;
+	display: flex;
+    flex-flow: column;
+}
+
+.mainText {
+	font-size: 1.125rem;
+	text-align: justify;
+    max-width: 70%;
+    margin: 0 auto;
+	padding-top: 32px;
+	padding-bottom: 32px;
+}
+
+.center {
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.headlineText {
+	display: block;
+	text-align: center;
+	max-width: 80%;
+	margin: 0 auto;
+	padding-top: 32px;
+	padding-bottom: 32px;
+}
+
+h3, h4, h5, h6 {
+	display: block;
+	text-align: center;
+}
+
 .blogTitle {
 	font-size: large;
 	font-weight: bold;
 	text-decoration: none;
+	text-align: center;
+}
+
+.blogImg {
+	display: block;
+	max-width: 90%;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 8px;
+	padding-bottom: 24px;
 }
 
 /* pedaço de css kibado daqui: https://landchad.net/style.css */
+
 code {
 	border-radius: 5px ;
 }
