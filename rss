@@ -2,8 +2,27 @@
 <rss version="2.0">
 <channel>
 <title>feed do torre</title>
-<link>https://torrenezzi10.xyz/blog/rss.xml</link>
+<link>https://torrenezzi10.xyz/rss</link>
 <description>aqui eu posto atualizações sobre meu canal, futuros vídeos e outras coisas.</description>
+
+<item>
+<title>não confie no whatsapp</title>
+<link>https://torrenezzi10.xyz/blog/7-peertube.html</link>
+<guid>https://torrenezzi10.xyz/blog/7-peertube.html</guid>
+<pubDate>Tue, 27 Sep 2022 14:45:00 -0300</pubDate>
+<description>
+	<![CDATA[ <h2>Minha instância do PeerTube</h2>
+	<h2>(27/09/2022)</h2>
+	<p><img src="https://torrenezzi10.xyz/blog/img/7/peertube.avif" class="blogImg" alt="Print da Home page do PeerTube do torre"></p>
+	<br>
+	<p>Hoje de madrugada decidi montar a minha própria instância do <a href="https://joinpeertube.org">PeerTube</a> como uma alternativa/backup do meu canal do YouTube.</p>
+	<del>Com certeza não foi um sufoco de configurar por causa de um PostgreSQL traiçoeiro</del>
+	<br>
+	<a href="https://videos.torrenezzi10.xyz/c/torrenezzi10">Link do meu canal no PeeerTube</a>
+	<br>
+	<p>Ah, e eu tbm não to postando nada nesse site pq não tenho ideia mesmo :P</p> ]]>
+</description>
+</item>
 
 <item>
 <title>Canal secundário</title>
