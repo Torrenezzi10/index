@@ -1,1 +1,57 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="2799 -911 32 32" width="32" height="32"><circle cx="2815" cy="-895" r="16" fill="#fff"/><path fill="#211f20" d="M2809-906v11l8-5"/><path fill="#737373" d="M2809-895v11l8-6"/><path fill="#f1680d" d="M2817-900v10l8-5"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="2799 -911 32 32"
+   width="32"
+   height="32"
+   version="1.1"
+   id="svg10"
+   sodipodi:docname="peertube.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs14" />
+  <sodipodi:namedview
+     id="namedview12"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="11.844039"
+     inkscape:cx="15.661888"
+     inkscape:cy="18.237023"
+     inkscape:window-width="1366"
+     inkscape:window-height="715"
+     inkscape:window-x="0"
+     inkscape:window-y="29"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg10" />
+  <circle
+     cx="2815"
+     cy="-895"
+     r="16"
+     fill="#fff"
+     id="circle2" />
+  <g
+     id="g855"
+     transform="matrix(0.90909091,0,0,0.90909091,256.36363,-81.363636)">
+    <path
+       fill="#211f20"
+       d="m 2809,-906 v 11 l 8,-5"
+       id="path4" />
+    <path
+       fill="#737373"
+       d="m 2809,-895 v 11 l 8,-6"
+       id="path6" />
+    <path
+       fill="#f1680d"
+       d="m 2817,-900 v 10 l 8,-5"
+       id="path8" />
+  </g>
+</svg>
